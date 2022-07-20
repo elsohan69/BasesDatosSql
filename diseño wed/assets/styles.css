@@ -1,0 +1,13 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: yellowgreen;
+}
+ body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ img{
+    max-width: 100%;
+    height: auto;
+    border-color: brown;
+ }
